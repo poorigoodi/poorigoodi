@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>Curious developer passionate about AI, Python, and building real-world solutions. 
+Curious developer passionate about AI, Python, and building real-world solutions. 
 Always learning, experimenting, and turning ideas into projects. 🚀
 
 

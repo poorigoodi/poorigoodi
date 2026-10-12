@@ -1,6 +1,6 @@
 # 💫 About Me:
 Curious developer passionate about AI, Python, and building real-world solutions. 
-Always learning, experimenting, and turning ideas into projects. 🚀
+<br>Always learning, experimenting, and turning ideas into projects. 🚀
 
 
 # 💻 Tech Stack:
